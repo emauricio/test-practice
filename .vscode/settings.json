@@ -1,8 +1,9 @@
 {
     "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
     "code-runner.runInTerminal": false,
     "code-runner.executorMap": {
         "javascript": "bun",
-        "typescript": "bun",
+        "typescript": "bun"
     }
 }
