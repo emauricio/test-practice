@@ -54,3 +54,14 @@ for (let i of items) {
 }
 
 console.log(count)
+
+// ======================================
+// correct snipet
+
+let str = 'Hello Word!'
+console.log(str.slice(3, 5))
+console.log(str.substring(3, 5))
+console.log(str.substr(3, 2))
+
+var $asdad = 0
+console.log($asdad)
